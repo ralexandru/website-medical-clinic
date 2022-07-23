@@ -22,7 +22,8 @@ ONLY A FEW FUNCTIONS ARE INCLUDED IN THE PICTURES BELOW!
   <img src="https://i.imgur.com/GdJdDMd.png"/>
   <img src="https://i.imgur.com/fscSoMv.png"/>
 </details>
---------------------------------------------------------
+
+
 Youtube video presenting the web app(Language: ROMANIAN)
 --------------------------------------------------------
 [![Click here to watch](https://i.imgur.com/kOaseuu.png)](https://www.youtube.com/watch?v=0S0dT4-W7cI)
