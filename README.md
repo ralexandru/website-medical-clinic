@@ -23,6 +23,14 @@ ONLY A FEW FUNCTIONS ARE INCLUDED IN THE PICTURES BELOW!
   <img src="https://i.imgur.com/fscSoMv.png"/>
 </details>
 
+RESPONSIVE
+--------------------------------------------------------
+The website is fully responsive, so you can access it from any device without having problems at all.
+<details>
+  <summary>Mobile preview</summary>
+  <img src="https://i.imgur.com/4iAbsvt.png"/>
+  <img src="https://i.imgur.com/zoAsU5c.png"/>
+</details>
 
 Youtube video presenting the web app(Language: ROMANIAN)
 --------------------------------------------------------
