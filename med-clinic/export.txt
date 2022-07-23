@@ -1,0 +1,17 @@
+Sunt inregistrate 3 mesaje 
+--------------
+NUME: Raducu
+Email: raducu.cf.alexandruflorian19@student.rau.ro
+TARA:Romania
+MESAJ: Acesta este un mesaj de test.
+
+NUME: test
+Email: test@test.com
+TARA:Romania
+MESAJ: mesaj de test
+
+NUME: Proiect
+Email: proiect@test.com
+TARA:Romania
+MESAJ: Prezentare proiect
+

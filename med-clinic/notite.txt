@@ -1,0 +1,13 @@
+Include emite o avertizare, dar scriptul va continua. Returneaza false daca scriptul nu este gasit.
+Require emite o eroare iar scriptul nu va mai continua. 
+mysqli_stmt reprezinta un prepared statement. PreparedStatement allows you to write a dynamic and parametric query. Prepared statements reduce parsing time as the preparation on the query is done only once
+https://www.regular-expressions.info/
+WebKit is a HTML/CSS web browser rendering engine for Safari/Chrome. 
+When you specify CSS styles inside the @keyframes rule, the animation will gradually change from the current style to the new style at certain times.
+border-collapse: collapse; // uneste boarderele intr-unul singur
+The align-items property defines the default behavior for how items are laid out along the cross axis (perpendicular to the main axis).
+URLs with an # followed by an anchor name link to a certain element within a document. The element being linked to is the target element. 
+explode — Split a string by a string -> Returns an array of strings, each of which is a substring of string formed by splitting it on boundaries formed by the string separator. 
+preg_match - Searches subject for a match to the regular expression given in pattern. 
+array_key_exists() returns true if the given key is set in the array. key can be any value possible for an array index. 
+=== (Triple equals) is a strict equality comparison operator in JavaScript, which returns false for the values which are not of a similar type. This operator performs type casting for equality. If we compare 2 with “2” using ===, then it will return a false value

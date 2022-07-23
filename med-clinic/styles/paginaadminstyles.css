@@ -1,0 +1,148 @@
+* {
+  box-sizing: border-box;
+}
+.continut {
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/* Mesajul de notificare */
+.notificare {
+  padding: 20px;
+  width: 100%;
+  background-color: black; 
+  color: white;
+  margin-bottom: 15px;
+
+}
+
+/* Butonul de inchidere a mesajului de notificare */
+.inchide {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* Hover pentru butonul de a inchide alerta */
+.inchide:hover {
+  color: black;
+} 
+
+a.buton-deschide-tab{
+	display:inline-block;
+	padding:0.5em 3em;
+	border:0.16em solid #FFFFFF;
+	margin:0 0.3em 0.3em 0;
+	box-sizing: border-box;
+	width: 80%;
+	background-color: #f44336;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-family:'Roboto',sans-serif;
+	font-size: 14.3px;
+	font-weight:400;
+	color:#FFFFFF;
+	text-align:center;
+	transition: all 0.15s;
+}
+a.buton-deschide-tab:hover{
+	color:#DDDDDD;
+	border-color:#DDDDDD;
+	background-color: red;
+}
+a.buton-deschide-tab:active{
+	color:#BBBBBB;
+	border-color:#BBBBBB;
+}
+@media all and (max-width:30em){
+	a.buton-deschide-tab{
+	display:block;
+	margin:0.4em auto;
+}
+} 
+@media screen and (min-width: 992px) {
+	a.buton-deschide-tab{
+		width: 24%;
+	}
+}
+@media screen and (min-width: 1000px){
+	.imagine-cerc{
+		margin-right: 30px;
+		margin-left: 10px;
+		margin-top: 3px;
+	}
+	.meniu{
+		display:inline-flex;
+		width: 100%;
+		border-radius: 50px;
+	}
+	.meniu-stanga{
+		padding-top: 2%;
+	}
+	.button
+}
+}
+.continutTab {
+  display: none;
+  margin-top: 2%;
+  padding: 6px 12px;
+  border-top: none;
+}
+
+@media screen and (min-width: 600px){
+	.rand{
+		width:45%;
+		float:left;
+	}
+	.rand1{
+		width: 45%;
+		float: right;
+	}
+}
+@media screen and (min-width: 800px){
+	.acelasirand{
+		width: 300px;
+		max-width: 250px;
+	}
+}
+.shadow {
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1) !important;
+}
+
+.tab-continut {
+	flex: 1;
+}
+
+.form-group {
+	margin-bottom: 1.5rem;
+}
+
+.imagine-cerc img {
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+	border: 5px solid #fff;
+}
+.textPostare {
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+  background: url(img/textbox.png) center center no-repeat; 
+  border: 1px solid #888; 
+}
+.textPostare:focus{
+	background: none;
+}
