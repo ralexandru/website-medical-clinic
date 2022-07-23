@@ -28,8 +28,8 @@ RESPONSIVE
 The website is fully responsive, so you can access it from any device without having problems at all.
 <details>
   <summary>Mobile preview</summary>
-  <img src="https://i.imgur.com/4iAbsvt.png"/>
-  <img src="https://i.imgur.com/zoAsU5c.png"/>
+  <img src="https://i.imgur.com/4iAbsvt.png" style="width:300px; height:500px;"/>
+  <img src="https://i.imgur.com/zoAsU5c.png" style="width:300px; height:500px;"/>
 </details>
 
 Youtube video presenting the web app(Language: ROMANIAN)
